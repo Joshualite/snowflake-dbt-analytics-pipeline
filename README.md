@@ -1,1 +1,1 @@
-# snowflake-dbt-analytics-pipeline
+# Snowflake-dbt-analytics-pipeline
